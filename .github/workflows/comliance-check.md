@@ -74,7 +74,7 @@ the repo must have the following files:
 
 - `/compliance-doc/README.md`
 - `/.github/workflows/build.yml`
-- `/.github/CODEOWNERS.md`
+- `/.github/CODEOWNERS`
 - `/README.md`
 
 ### specify repo type
