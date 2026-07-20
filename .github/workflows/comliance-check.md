@@ -71,16 +71,10 @@ and the workflow hides previous comments it made (if any) on that same PR.
 
 the repo must have the following files:
 
-```
-- compliance-docs
-  ├── ...
-  └── README.md
-- .github
-  ├── workflows
-  |   └── build.yml
-  └── CODEOWNERS.md
-- README.md
-```
+- `/compliance-doc/README.md`
+- `/.github/workflows/build.yml`
+- `/.github/CODEOWNERS.md`
+- `/README.md`
 
 ### specify repo type
 
