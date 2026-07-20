@@ -26,10 +26,11 @@ tools:
 safe-outputs:
   mentions: false
   add-comment:
+    max: 5
     discussions: true
     hide-older-comments: true
     allowed-reasons: [outdated]
-    footer: false
+    footer: true
     normalize-closing-keywords: true
   allowed-github-references: []
   allowed-domains: []
